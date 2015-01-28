@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.delta.cover
+OpenIDE-Module-Localizing-Bundle: com/delta/cover/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
